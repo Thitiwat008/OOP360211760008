@@ -36,10 +36,6 @@ public class carApp {
         Car myCar = new Car(color, brand, id, myEng);
         System.out.println(myCar.toString());
 
-
-
-
-
     }//main
 
 
